@@ -4,19 +4,19 @@ Simple project for testing WebGL Publisher package
 In scene is Player object that has VideoPlayer component and [VideoTest.cs](Assets/VideoTest.cs) script  
 Script just combine path `Path.Combine(Application.streamingAssetsPath,"example.mp4")` And then sets it to VideoPlayer.url
 
-###Local build   
+### Local build   
 runs as expected - no errors and successfully loads from Streaming assets (see screenshot below)
 Build is included in repository: [Build.zip](UnityWebGLPublisherTest(Build).zip)
 
-###Simmer.io  
+### Simmer.io  
 Reason of error looks to be, that Unity build is looking for StreamingAssets on wrong URL
 [Link](https://simmer.io/@TomiBary/unitywebglpublishertest)
 
-###Unity play
+### Unity play
 Errors in the console
 [Link](https://play.unity.com/mg/other/unitywebglpublishertest)
 
-##Using
+## Using
 **Unity 2021.2.8f1** and packages show below in screenshot  
 
 ### Package Manager Screenshot  
