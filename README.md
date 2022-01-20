@@ -10,21 +10,21 @@ Build is included in repository: [Build.zip](UnityWebGLPublisherTest(Build).zip)
 
 ###Simmer.io  
 Reason of error looks to be, that Unity build is looking for StreamingAssets on wrong URL
-![Link](https://simmer.io/@TomiBary/unitywebglpublishertest)
+[Link](https://simmer.io/@TomiBary/unitywebglpublishertest)
 
 ###Unity play
 Errors in the console
-![Link](https://play.unity.com/mg/other/unitywebglpublishertest)
+[Link](https://play.unity.com/mg/other/unitywebglpublishertest)
 
 ##Using
-**Unity 2021.2.8f1** and packages show below in screenshot
+**Unity 2021.2.8f1** and packages show below in screenshot  
 
-###Package Manager Screenshot
+### Package Manager Screenshot  
 ![Package Manager Screenshot](Images/PackageManager.png)
-###Editor Screenshot
+### Editor Screenshot  
 ![Editor Screenshot](Images/Editor.png)
-###Local Build Screenshot
+### Local Build Screenshot  
 ![Local Build Screenshot](Images/LocalBuild.png)
-###Simmer.io bad URL
-Should be: [https://simmercdn.com/unity/GgIvhwl8OeNukE6mrA2JxXfP2kn1/content/c6a85032-f745-bae8-6dd8-8e97ea26b1e6/StreamingAssets/example.mp4](https://simmercdn.com/unity/GgIvhwl8OeNukE6mrA2JxXfP2kn1/content/c6a85032-f745-bae8-6dd8-8e97ea26b1e6/StreamingAssets/example.mp4)
+### Simmer.io bad URL  
+Should be: [https://simmercdn.com/unity/GgIvhwl8OeNukE6mrA2JxXfP2kn1/content/c6a85032-f745-bae8-6dd8-8e97ea26b1e6/StreamingAssets/example.mp4](https://simmercdn.com/unity/GgIvhwl8OeNukE6mrA2JxXfP2kn1/content/c6a85032-f745-bae8-6dd8-8e97ea26b1e6/StreamingAssets/example.mp4)  
 ![SimmerError](Images/SimmerError.png)
