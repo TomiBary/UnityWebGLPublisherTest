@@ -17,7 +17,7 @@ Errors in the console
 [Link](https://play.unity.com/mg/other/unitywebglpublishertest)
 
 ## Using
-**Unity 2021.2.8f1** and packages show below in screenshot  
+**Opera 83.0.4254.19**, **Unity 2021.2.8f1** and packages show below in screenshot  
 
 ### Package Manager Screenshot  
 ![Package Manager Screenshot](Images/PackageManager.png)
